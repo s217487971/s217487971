@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @s217487971
-- 👀 I’m interested in mobile development
+- 👋 Hi, I’m @ Sizwe
+- 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning android development using multiple languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me s217487971@mandela.ac.za
